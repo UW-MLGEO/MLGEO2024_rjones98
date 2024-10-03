@@ -3,7 +3,7 @@
 ### Installing this repository:
 In order to install this repository, execute the following command:
 ```bash
-  git clone (https://github.com/UW-MLGEO/MLGEO2024_rjones98.git)
+  git clone https://github.com/UW-MLGEO/MLGEO2024_rjones98.git
 ```
 into a command line interface.
 
@@ -19,7 +19,7 @@ My favorite earth science topics are:
 <img src="lightning_climatology.png"/>
 
 ### Using Git Commands
-A PDF showing a couple of examples (the second of which is done more correctly than the first) of how the git add, commit and push commands are used is located at the file GitCommandsUsage.pdf.
+A PDF showing screenshots of how to clone the repository and how the git add, commit and push commands are used is located at the file GitCommandsUsage.pdf.
 
 ### Licensing
 The MIT license is an easily understood and implementable liscense which encourages contributions by being flexible and permissive. It is compatible with a wide range of other licenses, making it a good choice when aiming to make code widely available and encourage contributions/collaboration.
