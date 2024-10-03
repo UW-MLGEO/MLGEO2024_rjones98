@@ -3,7 +3,7 @@
 ### Installing this repository:
 In order to install this repository, execute the following command:
 ```bash
-  [git clone ](https://github.com/UW-MLGEO/MLGEO2024_rjones98.git)
+  git clone (https://github.com/UW-MLGEO/MLGEO2024_rjones98.git)
 ```
 into a command line interface.
 
