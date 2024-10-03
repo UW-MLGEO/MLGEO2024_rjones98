@@ -17,3 +17,6 @@ My favorite earth science topics are:
 3. Seismology
 
 <img src="lightning_climatology.png"/>
+
+### Licensing
+The MIT license is an easily understood and implementable liscense which encourages contributions by being flexible and permissive. It is compatible with a wide range of other licenses, making it a good choice when aiming to make code widely available and encourage contributions/collaboration.
