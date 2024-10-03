@@ -1,11 +1,25 @@
 # Randall Jones' Repository for ESS569
 
-### Installing this repository:
+### Installing and activating this repository:
 In order to install this repository, execute the following command:
 ```bash
   git clone https://github.com/UW-MLGEO/MLGEO2024_rjones98.git
 ```
 into a command line interface.
+
+To activate a conda environment with the neccesary packages to run scripts in this environment:
+Navigate to the repository,
+```bash
+  cd MLGEO2024_rjones98
+```
+create a conda environment using the included environment.yml file,
+```bash
+  conda env create -f envionment.yml
+```
+and activate the conda environment using the following command:
+```bash
+  conda activate mlgeo
+```
 
 ### Running the Jupyter Notebook
 In order to run the jupyter notebook (namely, ESS569_HW1.ipynb), open the notebook and click "Restart the kernel and run all cells" indicated by a fast-forward button in the top toolbar. Alternatively, press shift+enter on the code cells to run each one individually.
