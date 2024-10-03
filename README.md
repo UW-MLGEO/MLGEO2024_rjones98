@@ -7,6 +7,8 @@ In order to install this repository, execute the following command:
 ```
 into a command line interface.
 
+### Running the Jupyter Notebook
+In order to run the jupyter notebook (namely, ESS569_HW1.ipynb), open the notebook and click "Restart the kernel and run all cells" indicated by a fast-forward button in the top toolbar. Alternatively, press shift+enter on the code cells to run each one individually.
 
 ### Favorite Earth Science Topics:
 My favorite earth science topics are:
