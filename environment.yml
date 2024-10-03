@@ -1,4 +1,4 @@
-name: mlgeo_dataset
+name: mlgeo
 channels:
   - conda-forge
 dependencies:
